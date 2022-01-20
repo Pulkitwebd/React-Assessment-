@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Assessment-/static/css/main.b2ede491.css",
+    "main.js": "/React-Assessment-/static/js/main.4b82b2fb.js",
+    "static/media/image.png": "/React-Assessment-/static/media/image.18213130c1832966fcbd.png",
+    "static/media/vector.png": "/React-Assessment-/static/media/vector.536c523b92b560d8efca.png",
+    "index.html": "/React-Assessment-/index.html",
+    "main.b2ede491.css.map": "/React-Assessment-/static/css/main.b2ede491.css.map",
+    "main.4b82b2fb.js.map": "/React-Assessment-/static/js/main.4b82b2fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ede491.css",
+    "static/js/main.4b82b2fb.js"
+  ]
+}
